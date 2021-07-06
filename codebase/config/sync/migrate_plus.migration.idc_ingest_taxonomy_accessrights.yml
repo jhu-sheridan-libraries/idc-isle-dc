@@ -65,4 +65,5 @@ process:
 destination:
   plugin: 'entity:taxonomy_term'
   default_bundle: access_rights
+  validate: true
 migration_dependencies: null
