@@ -7420,6 +7420,32 @@
             "time": "2021-06-02T20:10:05+00:00"
         },
         {
+            "name": "jhu-idc/idc_defaults",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jhu-idc/idc_defaults.git",
+                "reference": "e1c2e4e9c98df183162d5ac71aa1c63add1a01b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jhu-idc/idc_defaults/zipball/e1c2e4e9c98df183162d5ac71aa1c63add1a01b6",
+                "reference": "e1c2e4e9c98df183162d5ac71aa1c63add1a01b6",
+                "shasum": ""
+            },
+            "require": {
+                "drupal/workbench_access": "^1.0@beta",
+                "islandora/islandora": "dev-8.x-1.x"
+            },
+            "type": "drupal-module",
+            "description": "Customizations for the Islandora integration at JHU's Sheridan Libraries.",
+            "support": {
+                "source": "https://github.com/jhu-idc/idc_defaults/tree/main",
+                "issues": "https://github.com/jhu-idc/idc_defaults/issues"
+            },
+            "time": "2021-07-14T17:35:57+00:00"
+        },
+        {
             "name": "jhu-idc/idc_export",
             "version": "dev-main",
             "source": {
@@ -18247,6 +18273,7 @@
         "islandora-rdm/islandora_fits": 20,
         "islandora/carapace": 20,
         "jhu-idc/idc-ui-theme": 20,
+        "jhu-idc/idc_defaults": 20,
         "jhu-idc/idc_export": 20,
         "jhu-idc/idc_ui_module": 20,
         "jhu-idc/islandora_defaults": 20
