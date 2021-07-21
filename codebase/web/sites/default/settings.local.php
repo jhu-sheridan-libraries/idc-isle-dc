@@ -36,4 +36,4 @@ $settings['file_private_path'] = '/tmp';
 # This needs to be defined in in order to avoid crashing
 $settings['flysystem']['fedora']['config']['root'] = 'http://fcrepo.isle-dc.localhost/fcrepo/rest/';
 
-$config['islandora.settings']['jwt_expiry'] = getenv('DRUPAL_JWT_EXPIRY_INTERVAL') ?: '+2 hour';
+$config['islandora.settings']['jwt_expiry'] = str_replace("'", "", str_replace('"', '', getenv('DRUPAL_JWT_EXPIRY_INTERVAL') ?: '+2 hour'));
