@@ -56,6 +56,7 @@ jobs:
               - 13-migration-entity-resolution
               - 20-export-tests
               - 21-role-permission-tests
+              - 21-large-file-derivatives
           fail-fast: false
         steps:
             # Check out current commit
