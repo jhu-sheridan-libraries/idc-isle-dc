@@ -2,9 +2,9 @@ github.com/coreos/go-systemd/v22 v22.3.2/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSV
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/emetsger/idc-golang v0.0.0-20210716181751-4154e3295f13 h1:MeuCsr1tRiZeX3efDaUBxZjMjygklk1FOxZlz4oX6Zw=
-github.com/emetsger/idc-golang v0.0.0-20210716181751-4154e3295f13/go.mod h1:sAj07mQW7YnSzTQnzrqkD1MHgpt2s/tJ3lu8OryPHvc=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/jhu-idc/idc-golang v0.0.1 h1:CmCummAaSwoPTLsVsQSNUKn250a/NW9zm+Kg+xR9WpM=
+github.com/jhu-idc/idc-golang v0.0.1/go.mod h1:wxcDQrMEPBHa1dPsZCXaAdR1lAUbiY4NuzP/lSMEskg=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
