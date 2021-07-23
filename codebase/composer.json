@@ -17,7 +17,7 @@
         },
         {
             "type": "vcs",
-            "url": "git@github.com:Islandora/islandora.git"
+            "url": "git@github.com:jhu-idc/islandora.git"
         },
         {
             "type": "vcs",
