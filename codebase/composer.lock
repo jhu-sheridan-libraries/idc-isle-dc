@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f49050a912e3c72cd899a72b9e78baa6",
+    "content-hash": "084c6c030e69dafac2a4796d49659cd1",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -7190,13 +7190,13 @@
             "version": "dev-8.x-1.x",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Islandora/islandora.git",
-                "reference": "d76a6644c919acaa48d59d862a4fc6e8a279be2d"
+                "url": "https://github.com/jhu-idc/islandora.git",
+                "reference": "8349b28adb382be6ebf1e2ffe6541aa80183a1a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora/islandora/zipball/d76a6644c919acaa48d59d862a4fc6e8a279be2d",
-                "reference": "d76a6644c919acaa48d59d862a4fc6e8a279be2d",
+                "url": "https://api.github.com/repos/jhu-idc/islandora/zipball/8349b28adb382be6ebf1e2ffe6541aa80183a1a2",
+                "reference": "8349b28adb382be6ebf1e2ffe6541aa80183a1a2",
                 "shasum": ""
             },
             "require": {
@@ -7255,9 +7255,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Islandora/documentation/issues",
-                "source": "https://github.com/Islandora/islandora/tree/8.x-1.x"
+                "source": "https://github.com/jhu-idc/islandora/tree/8.x-1.x"
             },
-            "time": "2021-03-31T20:47:01+00:00"
+            "time": "2021-07-23T00:10:33+00:00"
         },
         {
             "name": "islandora/jsonld",
@@ -7599,16 +7599,16 @@
         },
         {
             "name": "jhu_idc/idc_migration",
-            "version": "v1.0.6",
+            "version": "v1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jhu-idc/idc_migration.git",
-                "reference": "d6b5a240ec4444c61cd7d673cfef98c2cc236bf1"
+                "reference": "8f84792ed7813a56b85b4c9fa0ec20e57a95b334"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jhu-idc/idc_migration/zipball/d6b5a240ec4444c61cd7d673cfef98c2cc236bf1",
-                "reference": "d6b5a240ec4444c61cd7d673cfef98c2cc236bf1",
+                "url": "https://api.github.com/repos/jhu-idc/idc_migration/zipball/8f84792ed7813a56b85b4c9fa0ec20e57a95b334",
+                "reference": "8f84792ed7813a56b85b4c9fa0ec20e57a95b334",
                 "shasum": ""
             },
             "require": {
@@ -7638,9 +7638,9 @@
             ],
             "description": "Custom migration plugins for IDC",
             "support": {
-                "source": "https://github.com/jhu-idc/idc_migration/tree/v1.0.6"
+                "source": "https://github.com/jhu-idc/idc_migration/tree/v1.0.7"
             },
-            "time": "2021-07-20T18:46:02+00:00"
+            "time": "2021-07-22T23:36:41+00:00"
         },
         {
             "name": "laminas/laminas-diactoros",
@@ -17708,6 +17708,7 @@
                     "type": "github"
                 }
             ],
+            "abandoned": true,
             "time": "2020-11-30T07:30:19+00:00"
         },
         {
